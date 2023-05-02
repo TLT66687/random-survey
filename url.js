@@ -8,8 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLScBHZrlrATv2YY09SZ9v3gQo-wg3ploVa2Z2n7nh3d6Vs0NzQ/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdWK-fQ1TS8ZEvBZxL3IFPGr9wUIW0pdqXwtuFDNSnafEg20g/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSd9O5S9L33IeleJcTkFWkjw90ot7jERa_yHmJoIYZGG0X1QKw/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSc3L6iDIZL3xUw4ccepxn1C3OiwSW6PQ1epViwkw3_sqr6GaA/viewform?usp=sf_link'
+	'https://docs.google.com/forms/d/e/1FAIpQLSehFYDhs4wGvmDygcflpwC6i6KGMJ4bG75hd_99BuitvDmtSw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdwt-ka7oYi3QOMgx6V_ua7Z3ZICoXkIY0VeEBpb-9NiyQfBw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSc04B2rZED5D0YlrwRxqUtMZiIXnUbgNyidcZnXlrXYf0kuTw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfn9yIGkUT7oCP6U-mxNa_hDDnTgXhlO4viEUj8ywtNGF3USg/viewform?usp=sf_link'
 ];
